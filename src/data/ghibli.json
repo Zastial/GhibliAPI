@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1,
+    "title": "Le Château dans le ciel",
+    "originalTitle": "天空の城ラピュタ",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "1986-08-02",
+    "duration": 124,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 15700000,
+    "mainCharacters": [
+      "Pazu",
+      "Sheeta",
+      "Muska"
+    ],
+    "synopsis": "Un garçon et une jeune fille recherchent la cité volante de Laputa.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es"
+    ],
+    "year": 1986,
+    "rating": 8.6
+  },
+  {
+    "id": 2,
+    "title": "Mon voisin Totoro",
+    "originalTitle": "となりのトトロ",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "1988-04-16",
+    "duration": 86,
+    "genres": [
+      "Fantasy",
+      "Family"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 41000000,
+    "mainCharacters": [
+      "Satsuki",
+      "Mei",
+      "Totoro"
+    ],
+    "synopsis": "Deux sœurs découvrent des esprits de la forêt près de leur nouvelle maison.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "pt",
+      "ko",
+      "zh"
+    ],
+    "year": 1988,
+    "rating": 8.3
+  },
+  {
+    "id": 3,
+    "title": "Le Tombeau des lucioles",
+    "originalTitle": "火垂るの墓",
+    "director": "Isao Takahata",
+    "releaseDate": "1988-04-16",
+    "duration": 89,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "ageRating": "PG13",
+    "status": "released",
+    "boxOffice": 516000,
+    "mainCharacters": [
+      "Seita",
+      "Setsuko"
+    ],
+    "synopsis": "Deux enfants tentent de survivre au Japon durant la Seconde Guerre mondiale.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de"
+    ],
+    "year": 1988,
+    "rating": 8.5
+  },
+  {
+    "id": 4,
+    "title": "Kiki la petite sorcière",
+    "originalTitle": "魔女の宅急便",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "1989-07-29",
+    "duration": 103,
+    "genres": [
+      "Fantasy",
+      "Coming-of-age"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 41000000,
+    "mainCharacters": [
+      "Kiki",
+      "Jiji"
+    ],
+    "synopsis": "Une jeune sorcière s’installe dans une ville pour apprendre l’indépendance.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+    ],
+    "year": 1989,
+    "rating": 8.1
+  },
+  {
+    "id": 5,
+    "title": "Porco Rosso",
+    "originalTitle": "紅の豚",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "1992-07-18",
+    "duration": 94,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 44000000,
+    "mainCharacters": [
+      "Porco Rosso",
+      "Fio"
+    ],
+    "synopsis": "Un ancien pilote transformé en cochon combat des pirates de l’air.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "it",
+      "es"
+    ],
+    "year": 1992,
+    "rating": 7.9
+  },
+  {
+    "id": 6,
+    "title": "Pompoko",
+    "originalTitle": "平成狸合戦ぽんぽこ",
+    "director": "Isao Takahata",
+    "releaseDate": "1994-07-16",
+    "duration": 119,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 44700000,
+    "mainCharacters": [
+      "Shoukichi",
+      "Oroku"
+    ],
+    "synopsis": "Des tanukis défendent leur habitat contre l’urbanisation.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr"
+    ],
+    "year": 1994,
+    "rating": 7.8
+  },
+  {
+    "id": 7,
+    "title": "Si tu tends l’oreille",
+    "originalTitle": "耳をすませば",
+    "director": "Yoshifumi Kondo",
+    "releaseDate": "1995-07-15",
+    "duration": 111,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 31500000,
+    "mainCharacters": [
+      "Shizuku",
+      "Seiji"
+    ],
+    "synopsis": "Une collégienne rêve de devenir écrivaine.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de"
+    ],
+    "year": 1995,
+    "rating": 7.5
+  },
+  {
+    "id": 8,
+    "title": "Princesse Mononoké",
+    "originalTitle": "もののけ姫",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "1997-07-12",
+    "duration": 134,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ageRating": "PG13",
+    "status": "released",
+    "boxOffice": 169000000,
+    "mainCharacters": [
+      "Ashitaka",
+      "San"
+    ],
+    "synopsis": "Un prince tente de réconcilier humains et esprits de la forêt.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "pt",
+      "ko"
+    ],
+    "year": 1997,
+    "rating": 8.4
+  },
+  {
+    "id": 9,
+    "title": "Mes voisins les Yamada",
+    "originalTitle": "ホーホケキョ となりの山田くん",
+    "director": "Isao Takahata",
+    "releaseDate": "1999-07-17",
+    "duration": 104,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 15600000,
+    "mainCharacters": [
+      "Famille Yamada"
+    ],
+    "synopsis": "Chroniques humoristiques d’une famille japonaise.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr"
+    ],
+    "year": 1999,
+    "rating": 7.4
+  },
+  {
+    "id": 10,
+    "title": "Le Voyage de Chihiro",
+    "originalTitle": "千と千尋の神隠し",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "2001-07-20",
+    "duration": 125,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 355000000,
+    "mainCharacters": [
+      "Chihiro",
+      "Haku",
+      "Yubaba"
+    ],
+    "synopsis": "Une fillette traverse un monde d’esprits pour sauver ses parents.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "pt",
+      "ko",
+      "zh",
+      "ru"
+    ],
+    "year": 2001,
+    "rating": 8.9
+  },
+  {
+    "id": 11,
+    "title": "Le Royaume des chats",
+    "originalTitle": "猫の恩返し",
+    "director": "Hiroyuki Morita",
+    "releaseDate": "2002-07-20",
+    "duration": 75,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 54000000,
+    "mainCharacters": [
+      "Haru",
+      "Baron"
+    ],
+    "synopsis": "Une lycéenne est entraînée dans un royaume peuplé de chats.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es"
+    ],
+    "year": 2002,
+    "rating": 7.6
+  },
+  {
+    "id": 12,
+    "title": "Le Château ambulant",
+    "originalTitle": "ハウルの動く城",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "2004-11-20",
+    "duration": 119,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 236000000,
+    "mainCharacters": [
+      "Sophie",
+      "Howl"
+    ],
+    "synopsis": "Une jeune femme transformée en vieille dame cherche à briser un sort.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "pt",
+      "ko"
+    ],
+    "year": 2004,
+    "rating": 8.2
+  },
+  {
+    "id": 13,
+    "title": "Les Contes de Terremer",
+    "originalTitle": "ゲド戦記",
+    "director": "Goro Miyazaki",
+    "releaseDate": "2006-07-29",
+    "duration": 115,
+    "genres": [
+      "Fantasy"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 68000000,
+    "mainCharacters": [
+      "Arren",
+      "Sparrowhawk"
+    ],
+    "synopsis": "Un prince fuit son royaume dans un monde menacé par le chaos.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "es"
+    ],
+    "year": 2006,
+    "rating": 6.9
+  },
+  {
+    "id": 14,
+    "title": "Ponyo sur la falaise",
+    "originalTitle": "崖の上のポニョ",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "2008-07-19",
+    "duration": 101,
+    "genres": [
+      "Fantasy",
+      "Family"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 204000000,
+    "mainCharacters": [
+      "Ponyo",
+      "Sosuke"
+    ],
+    "synopsis": "Un poisson magique rêve de devenir humaine.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "ko"
+    ],
+    "year": 2008,
+    "rating": 7.8
+  },
+  {
+    "id": 15,
+    "title": "Arrietty, le petit monde des chapardeurs",
+    "originalTitle": "借りぐらしのアリエッティ",
+    "director": "Hiromasa Yonebayashi",
+    "releaseDate": "2010-07-17",
+    "duration": 94,
+    "genres": [
+      "Fantasy"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 149000000,
+    "mainCharacters": [
+      "Arrietty",
+      "Sho"
+    ],
+    "synopsis": "Une minuscule famille vit en secret sous le plancher d’une maison.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+    ],
+    "year": 2010,
+    "rating": 7.7
+  },
+  {
+    "id": 16,
+    "title": "La Colline aux coquelicots",
+    "originalTitle": "コクリコ坂から",
+    "director": "Goro Miyazaki",
+    "releaseDate": "2011-07-16",
+    "duration": 91,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "ageRating": "G",
+    "status": "released",
+    "boxOffice": 61000000,
+    "mainCharacters": [
+      "Umi",
+      "Shun"
+    ],
+    "synopsis": "Deux lycéens s’unissent pour sauver leur foyer étudiant.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de"
+    ],
+    "year": 2011,
+    "rating": 7.4
+  },
+  {
+    "id": 17,
+    "title": "Le Vent se lève",
+    "originalTitle": "風立ちぬ",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "2013-07-20",
+    "duration": 126,
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "ageRating": "PG13",
+    "status": "released",
+    "boxOffice": 136000000,
+    "mainCharacters": [
+      "Jiro Horikoshi"
+    ],
+    "synopsis": "Biographie romancée du concepteur d’avions Jiro Horikoshi.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+    ],
+    "year": 2013,
+    "rating": 7.8
+  },
+  {
+    "id": 18,
+    "title": "Le Conte de la princesse Kaguya",
+    "originalTitle": "かぐや姫の物語",
+    "director": "Isao Takahata",
+    "releaseDate": "2013-11-23",
+    "duration": 137,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 24000000,
+    "mainCharacters": [
+      "Kaguya"
+    ],
+    "synopsis": "Adaptation poétique d’un conte traditionnel japonais.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de"
+    ],
+    "year": 2013,
+    "rating": 8.1
+  },
+  {
+    "id": 19,
+    "title": "Souvenirs de Marnie",
+    "originalTitle": "思い出のマーニー",
+    "director": "Hiromasa Yonebayashi",
+    "releaseDate": "2014-07-19",
+    "duration": 103,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 34000000,
+    "mainCharacters": [
+      "Anna",
+      "Marnie"
+    ],
+    "synopsis": "Une jeune fille solitaire se lie d’amitié avec une mystérieuse voisine.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "es"
+    ],
+    "year": 2014,
+    "rating": 7.3
+  },
+  {
+    "id": 20,
+    "title": "La Tortue rouge",
+    "originalTitle": "レッドタートル ある島の物語",
+    "director": "Michael Dudok de Wit",
+    "releaseDate": "2016-09-17",
+    "duration": 80,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 6000000,
+    "mainCharacters": [
+      "Homme naufragé"
+    ],
+    "synopsis": "Un naufragé rencontre une mystérieuse tortue rouge.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+    ],
+    "year": 2016,
+    "rating": 7
+  },
+  {
+    "id": 21,
+    "title": "Aya et la sorcière",
+    "originalTitle": "アーヤと魔女",
+    "director": "Goro Miyazaki",
+    "releaseDate": "2020-12-30",
+    "duration": 82,
+    "genres": [
+      "Fantasy"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 3000000,
+    "mainCharacters": [
+      "Aya",
+      "Bella Yaga"
+    ],
+    "synopsis": "Une orpheline découvre qu’elle est adoptée par une sorcière.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr"
+    ],
+    "year": 2020,
+    "rating": 7.5
+  },
+  {
+    "id": 22,
+    "title": "Le Garçon et le Héron",
+    "originalTitle": "君たちはどう生きるか",
+    "director": "Hayao Miyazaki",
+    "releaseDate": "2023-07-14",
+    "duration": 124,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "ageRating": "PG",
+    "status": "released",
+    "boxOffice": 294000000,
+    "mainCharacters": [
+      "Mahito",
+      "Le Héron"
+    ],
+    "synopsis": "Un jeune garçon traverse un monde fantastique après la mort de sa mère.",
+    "availableLanguages": [
+      "jp",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "ko",
+      "zh"
+    ],
+    "year": 2023,
+    "rating": 8.3
+  },
+  {
+    "id": 23,
+    "title": "Ghibli 23",
+    "originalTitle": "Ghibli 23",
+    "director": "Director 23",
+    "releaseDate": "2024-12-31",
+    "duration": 100,
+    "genres": [
+      "Genre1",
+      "Genre2"
+    ],
+    "ageRating": "PG",
+    "status": "upcoming",
+    "boxOffice": 0,
+    "mainCharacters": [
+      "Character1",
+      "Character2"
+    ],
+    "synopsis": "Synopsis du film Ghibli 23.",
+    "availableLanguages": [
+      "jp",
+      "en"
+    ],
+    "year": 2024,
+    "rating": null
+  }
+]
