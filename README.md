@@ -1,5 +1,7 @@
 # GhibliAPI
 
+Author: Alexandre CAROL
+
 ## Quick Start
 
 ```bash
