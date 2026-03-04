@@ -30,7 +30,7 @@ export class AuthService {
     return { apiKey: newUser.apiKey };
   }
 
-  login(email: string): { apiKey: string } {
+  login(email: string): User {
     const users = this.storage.read<User[]>('users.json');
     const user = users.find((u) => u.email === email);
 
@@ -38,7 +38,7 @@ export class AuthService {
       throw new NotFoundException(`User with email ${email} not found`);
     }
 
-    return { apiKey: user.apiKey };
+    return user;
   }
 
   regenerateKey(apiKey: string): { apiKey: string } {
